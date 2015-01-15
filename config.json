@@ -1,0 +1,21 @@
+﻿{
+  "pushover": {
+    "user": "XXX",
+    "token": "XXX"
+  },
+  "global": {
+    "currency": "EUR",
+    "urlPrefix": "http://www.amazon.de/gp/offer-listing/",
+    "urlSuffix": "/ref=olp_tab_all"
+  }, 
+  "products": [
+    { "name": "Name of product",
+      "productId": "B00CKPCJNO",
+      "priceThreshold": "28.00"
+    },
+    { "name": "Name of product #2",
+      "productId": "B000PKFFNW",
+      "priceThreshold": "90.00"
+    }
+  ]
+}
